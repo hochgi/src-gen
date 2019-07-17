@@ -1,0 +1,6 @@
+target/
+.idea_modules/
+.idea/
+.metals/
+.bloop/
+.localstorage/
